@@ -52,8 +52,7 @@ export default function Home() {
           <h2>
             Quickstart <span>-&gt;</span>
           </h2>
-          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2.</p>
-          <p>Quick test for updating the frontpage of the webapp.<p/>
+          <p>Follow a tutorial to build a fullstack app with Amplify Gen 2. (Quick test for updates and modification.)</p>
         </a>
 
         <a
